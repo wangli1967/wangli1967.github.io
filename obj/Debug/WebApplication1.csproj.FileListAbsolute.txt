@@ -1,0 +1,14 @@
+C:\Users\Max Feng\source\repos\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Max Feng\source\repos\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Max Feng\source\repos\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Max Feng\source\repos\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Max Feng\source\repos\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Max Feng\source\repos\WebApplication1\bin\stdole.dll
+C:\Users\Max Feng\source\repos\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Max Feng\Sites\GitHub9\wangli1967.github.io\bin\WebApplication1.dll.config
+C:\Users\Max Feng\Sites\GitHub9\wangli1967.github.io\bin\WebApplication1.pdb
+C:\Users\Max Feng\Sites\GitHub9\wangli1967.github.io\bin\stdole.dll
+C:\Users\Max Feng\Sites\GitHub9\wangli1967.github.io\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Max Feng\Sites\GitHub9\wangli1967.github.io\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Max Feng\Sites\GitHub9\wangli1967.github.io\obj\Debug\WebApplication1.dll
+C:\Users\Max Feng\Sites\GitHub9\wangli1967.github.io\obj\Debug\WebApplication1.pdb
